@@ -12,3 +12,4 @@ class Share extends Model
         'share_qty'
       ];
 }
+
